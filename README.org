@@ -1,0 +1,6 @@
+#+title: Simple Hashmap implemented in Rust
+
+* Description
+A very basic hashmap implementation which uses the DefaultHasher
+
+Originally implemented by [[https://www.youtube.com/watch?v=k6xR2kf9hlA&t=3667s][Jon Gjengset]]
